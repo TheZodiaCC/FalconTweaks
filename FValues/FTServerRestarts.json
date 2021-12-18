@@ -1,0 +1,6 @@
+{
+  "autoRestarts": true,
+  "restartMessage": "Server will restart in: ",
+  "messageStartMin": 5,
+  "maxUptime": 180
+}

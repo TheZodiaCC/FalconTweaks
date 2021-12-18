@@ -1,0 +1,35 @@
+FrameWidgetClass rootFrame {
+ position -12.5948 -26.5546
+ size 2120.86011 1119.15002
+ hexactpos 1
+ vexactpos 1
+ hexactsize 1
+ vexactsize 1
+ {
+  ImageWidgetClass ImageWidget0 {
+   ignorepointer 1
+   color 0 0 0 1
+   position -34.1015 -9.82075
+   size 2026.72998 1128.66992
+   hexactpos 1
+   vexactpos 1
+   hexactsize 1
+   vexactsize 1
+   {
+    TextWidgetClass TextWidget0 {
+     ignorepointer 1
+     position 814.97601 514.97601
+     size 358.14603 71.6152
+     hexactpos 1
+     vexactpos 1
+     hexactsize 1
+     vexactsize 1
+     text "Relog Protection"
+     text_proportion 0.6
+     "text halign" center
+     "text valign" center
+    }
+   }
+  }
+ }
+}
