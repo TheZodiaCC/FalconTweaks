@@ -9,6 +9,7 @@ Tweaks for DayZ Standalone
 - Base building objects noclip
 - Relog wallhack protection
 - Auto Server restarts
+- Vehicles offroad speed tweaks
 - Full customization
 
 ### Setup
