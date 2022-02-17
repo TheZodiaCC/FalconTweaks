@@ -19,3 +19,8 @@ Tweaks for DayZ Standalone
 ### Customization
 - For no build zones customization see `FValues/FTweaksNoBuildZones.json`
 - For auto restarts customization see `FValues/FTServerRestarts.json`
+
+### Media
+![RELOG PROTECTION](/media/relog.png)
+
+![VEHICLES OFFROAD TWEAKS](/media/veh1.png)
